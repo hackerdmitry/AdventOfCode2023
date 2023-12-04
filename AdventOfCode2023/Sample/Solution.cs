@@ -2,7 +2,7 @@ using System.Linq;
 
 namespace AdventOfCode.Sample;
 
-public class Solution
+public static class Solution
 {
     public static string FirstPart(string[] lines)
     {
