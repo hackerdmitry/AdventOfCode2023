@@ -8,5 +8,7 @@
     &lt;TestId&gt;NUnit3x::72FD01BA-0CDF-4FA8-97E2-EFC193AD5023::net6.0::AdventOfCode._2_Day.2 Day.SecondPartTest&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::72FD01BA-0CDF-4FA8-97E2-EFC193AD5023::net6.0::AdventOfCode._3_Day.3 Day.FirstPartTest&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::72FD01BA-0CDF-4FA8-97E2-EFC193AD5023::net6.0::AdventOfCode._3_Day.3 Day.SecondPartTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::72FD01BA-0CDF-4FA8-97E2-EFC193AD5023::net6.0::AdventOfCode._4_Day.4 Day.FirstPartTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::72FD01BA-0CDF-4FA8-97E2-EFC193AD5023::net6.0::AdventOfCode._4_Day.4 Day.SecondPartTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
